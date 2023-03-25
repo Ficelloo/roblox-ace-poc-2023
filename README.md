@@ -1,2 +1,3 @@
-# roblox-rce-poc-2023
-This 'RCE' is only possible because we are patching a function in memory. This isn't possible on the actual roblox without patching this function
+# Roblox RCE (2023)
+
+Hi! someone named "7zap" found a way to execute pc's app by abusing "MessageBusService" service on roblox, he used the GetMessageId function from this service by setting "domainName" parameter to 'calc.exe' or even 'notepad.exe', here is the video: ![me](https://imgur.com/4cUoGJj)
