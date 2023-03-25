@@ -16,7 +16,7 @@ Me and my friend found a way to do the exact thing by patching the script identi
 
 here is our video:
 
-[url=https://ibb.co/BTf1wD6][img]https://i.ibb.co/kqGdMnD/Animation.gif[/img][/url]
+![url=https://ibb.co/BTf1wD6][img]https://i.ibb.co/kqGdMnD/Animation.gif[/img][/url]
 
 # What tools used here to reproduce 7zap's vuln?
 
