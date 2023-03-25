@@ -15,6 +15,7 @@ Hi! someone named "7zap" found a way to execute pc's app by abusing "MessageBusS
 Me and my friend found a way to do the exact thing by patching the script identity level on the actual roblox client by editing the function in the memory and setting the level to '0' instead of '5', And now we can actually exploit this vulnerability on the REAL roblox without being frozen unlike 7zap's server patched.
 
 here is our video:
+
 ![ourvid](https://cdn.discordapp.com/attachments/1040049138538139828/1089138359617732639/Animation.gif)
 
 # What tools used here to reproduce 7zap's vuln?
