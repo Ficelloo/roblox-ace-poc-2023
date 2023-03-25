@@ -16,7 +16,7 @@ Me and my friend found a way to do the exact thing by patching the script identi
 
 here is our video:
 
-![ourvid](https://cdn.discordapp.com/attachments/1079957431611838576/1089139031805276240/Animation.gif)
+![vid](./Animation.gif)
 
 # What tools used here to reproduce 7zap's vuln?
 
