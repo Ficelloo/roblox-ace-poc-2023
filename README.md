@@ -8,4 +8,17 @@ Hi! someone named "7zap" found a way to execute pc's app by abusing "MessageBusS
 
 # How?
 
-7zap did that by patching the level indentity on the serverside, this is why he can execute that on the server command bar.
+7zap did that by patching the level indentity on the server side, this is why he can execute that on the server command bar.
+
+# Client vulnerability
+
+Me and my friend found a way to do the exact thing by patching the script identity level on the actual roblox client by editing the function in the memory and setting the level to '0' instead of '5', And now we can actually exploit this vulnerability on the REAL roblox without being frozen unlike 7zap's server patched.
+
+# What tools used here to reproduce 7zap's vuln?
+
+https://github.com/ElCapor/lego-exploder made by mogus#2891
+
+# Credits:
+7ap#8640
+mogus#2891
+Ficello.zip#9910
