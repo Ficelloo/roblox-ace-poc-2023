@@ -8,7 +8,7 @@ Hi! someone named "7ap" found a way to execute pc's app by abusing "MessageBusSe
 
 # How?
 
-7ap did that by patching the level indentity on the server side, this is why he can execute that on the server command bar.
+I think 7ap did that by patching the level indentity on the server side, this is why he can execute that on the server command bar.
 
 # Client vulnerability
 
