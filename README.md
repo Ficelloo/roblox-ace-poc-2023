@@ -23,6 +23,6 @@ here is our video:
 https://github.com/ElCapor/lego-exploder made by mogus#2891 with a bit of Ficello.zip#9910 help
 
 # Credits:
-7ap#8640
-mogus#2891
-Ficello.zip#9910
+7ap
+mogus
+Ficello.zip
