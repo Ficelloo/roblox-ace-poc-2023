@@ -20,9 +20,9 @@ here is our video:
 
 # What tools used here to reproduce 7ap's vuln?
 
-https://github.com/ElCapor/lego-exploder made by mogus#2891 with a bit of Ficello.zip#9910 help
+https://github.com/ElCapor/lego-exploder made by mogus with a bit of Ficello help
 
 # Credits:
 7ap
 mogus
-Ficello.zip
+Ficello
